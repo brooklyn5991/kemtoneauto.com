@@ -48,8 +48,8 @@ html {
 body{
     font-family: 'Montserrat', sans-serif;
     line-height: 1.7;
-    color: var(--color-light);
-    background: var(--color-bg-3);
+    color: white;
+    background: rgb(62, 62, 161);
 }
 
 h1, h2 {
