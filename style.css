@@ -1010,6 +1010,11 @@ header {
     gap: 2rem;
 }
 
+ .about__container h2 {
+    margin-bottom: 3rem;
+}
+ 
+
 .about__right p {
     width: 100%;
 }
